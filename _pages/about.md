@@ -20,25 +20,27 @@ My research lies in developing robust machine learning methodologies, with a par
 
 ### Academic Journey
 
-**M.Sc. in Artificial Intelligence for Science** African Institute for Mathematical Sciences (AIMS), South Africa — 2023 – Present  
+**M.Sc. in Artificial Intelligence for Science** African Institute for Mathematical Sciences (AIMS), South Africa | 2023 – Present  
+*Google DeepMind Scholar*
 
-**Joint M.Sc. in Mathematics (Statistics Option)** Pan African University (PAUSTI), Kenya — 2021 – 2023  
+**Joint M.Sc. in Mathematics (Statistics Option)** Pan African University (PAUSTI), Kenya | 2021 – 2023  
+*Thesis: A Hybrid Minkowski-Log-Cosh loss function for Robust LSTM-based time series forecasting*
 
-**B.Sc. in Mathematics & Statistics** Université de Kara, Togo — 2018 – 2021  
+**B.Sc. in Mathematics, Statistics and Socio-economic Applications** Université de Kara, Togo | 2018 – 2021
 
 ### Technical Expertise
 
 * **Programming**: Python (Advanced), R, MATLAB, SQL, C/C++
-* **Machine Learning**: LSTM Networks, Deep Learning, Scikit-learn, PyTorch, TensorFlow
-* **Tools & Analysis**: Power BI, STATA, LaTeX, GitHub, Jupyter Notebooks
+* **Machine Learning**: LSTM Networks, ANN Architectures, Scikit-learn, PyTorch, TensorFlow
+* **Tools & Analysis**: Power BI, STATA, GIS, LaTeX, GitHub, Jupyter Notebooks
 
 ### Leadership & Teaching
 
-**Tutor (Volunteer)** — Ecole Polytechnique de Lomé  
-Instructed Master’s students in Inferential Statistics and Optimization techniques (KKT Conditions, Gradient methods).
+**Tutor (Volunteer)** — Ecole Polytechnique de Lomé, Togo  
+Instructed Master’s students in Inferential Statistics and Optimization techniques, including KKT Conditions and Gradient methods.
 
-**Mathematics and Physics Teacher** — High School, Togo  
-Delivered curriculum in Physics and Probability for four years.
+**Mathematics and Physics Teacher** — High School, Kara, Togo  
+Delivered curriculum in Physics (Kinematics, Thermodynamics) and Mathematics (Probability, Statistics).
 
 ---
 
