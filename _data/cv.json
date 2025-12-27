@@ -1,68 +1,39 @@
 # Curriculum Vitae
 
-[Download Full CV (PDF)](cv.pdf)
+**[Download Full CV (PDF)](cv.pdf)**
 
 ## Research Interests
-* **Robust Machine Learning:** Developing methodologies and loss functions resilient to noisy data and outliers.
-* **Time Series Forecasting:** Deep learning approaches for temporal data analysis and prediction.
-* **NLP & LLMs:** Natural Language Processing and Large Language Model applications.
-* **Explainable AI (XAI):** Enhancing model interpretability and transparency.
-* **Computer Vision & Speech Processing:** Advanced signal and image analysis techniques.
+* **Robust Machine Learning:** Resilience to noisy data.
+* **Time Series Forecasting:** Deep learning methodologies.
+* **NLP & LLMs:** Natural Language Processing and Large Language Models.
+* **Explainable AI (XAI):** Model interpretability.
+* **Computer Vision & Speech:** Advanced signal processing.
 
 ## Education
-* **M.Sc. in Artificial Intelligence for Science**, African Institute for Mathematical Sciences (AIMS), South Africa | 2023 – 2025
-  * *Google DeepMind Scholar*
-* **Joint M.Sc. in Mathematics (Statistics Option)**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya | 2021 – 2023
-  * *Thesis: A Hybrid Minkowski-Log-Cosh loss function for Robust LSTM-based time series forecasting*
-  * *African Union Scholar*
-* **B.Sc. in Mathematics, Statistics and Socio-economic Applications**, Université de Kara, Togo | 2018 – 2021
-  * *Thesis: Evaluating the Effects of Online Learning on the Student Population of the Université de Kara During the COVID-19 Pandemic*
-* **Baccalaureat (Mathematics and Physical Sciences, C Series)**, Lycée Scientifique de Kara, Togo | 2015 – 2018
-  * *Togolese National Government Scholarship*
+* **M.Sc. in Artificial Intelligence for Science**  
+  African Institute for Mathematical Sciences (AIMS), South Africa  
+  2023 – 2025  
+  *Google DeepMind Scholar*
 
-## Research Experience
-* **Graduate Researcher**, African Institute for Mathematical Sciences (AIMS) | 2023 – Present
-  * Developed a novel **hybrid Minkowski-Log-Cosh loss function** to enhance LSTM robustness against outliers in time series forecasting.
-  * Applied LSTM models to predict malaria case incidence using 10-year public health data (2013-2023), demonstrating improved accuracy in noisy epidemiological datasets.
-  * Implemented robust deep learning pipelines for time series analysis with applications in public health forecasting.
-* **Undergraduate Researcher**, Université de Kara | 2021 – 2022
-  * Designed and implemented Artificial Neural Network (ANN) models for agricultural yield prediction, integrating climate, soil, and environmental variables.
-  * Conducted research evaluating the socio-economic impact of online learning during the COVID-19 pandemic on university students.
-  * Performed comprehensive feature sensitivity analysis to identify and rank key drivers of crop productivity.
+* **Joint M.Sc. in Mathematics (Statistics Option)**  
+  Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya  
+  2021 – 2023# Curriculum Vitae
 
-## Technical Skills
-* **Programming Languages:** Python (Advanced), R, MATLAB, SQL, C/C++
-* **AI/ML Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
-* **Core Modeling & Techniques:** LSTM Networks, ANN/Deep Learning, Time-Series Analysis, Natural Language Processing (NLP), Computer Vision, Explainable AI (XAI), Statistical Modeling, Feature Engineering
-* **Data Analysis & Tools:** Pandas, NumPy, STATA, SPSS, Power BI, GIS (Geographic Information Systems), Jupyter Notebooks
-* **Development & Productivity:** Git/GitHub, LaTeX, MySQL
+**[Download Full CV (PDF)](cv.pdf)**
 
-## Publications
-* **Simsoba, K.-A.**, Oscar, N., & Mageto, T. (2025). "A Hybrid Minkowski-Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting." *IEEE Access*, 13, 187307–187319. [[DOI]](https://doi.org/10.1109/ACCESS.2025.3626795)
+## Research Interests
+* **Robust Machine Learning:** Resilience to noisy data.
+* **Time Series Forecasting:** Deep learning methodologies.
+* **NLP & LLMs:** Natural Language Processing and Large Language Models.
+* **Explainable AI (XAI):** Model interpretability.
+* **Computer Vision & Speech:** Advanced signal processing.
 
-## Teaching Experience
-* **Mathematics and Physics Teacher**, High Schools, Kara, Togo | 2019–2023
-  * Delivered comprehensive high school curriculum in **Physics** (Kinematics, Thermodynamics, Electricity) and **Mathematics** (Probability, Analysis, Geometry).
-  * Developed interactive lesson plans and assessment tools to enhance student engagement and understanding of complex scientific concepts.
-* **Tutor (Volunteer)**, École Polytechnique de Lomé, Togo | 2023
-  * Instructed Master's students in the Big Data program on **Inferential Statistics** (hypothesis testing, confidence intervals) and **Optimization** techniques (KKT Conditions, Gradient-based methods).
-  * Provided academic support and developed specialized course materials for advanced analytical coursework.
+## Education
+* **M.Sc. in Artificial Intelligence for Science**  
+  African Institute for Mathematical Sciences (AIMS), South Africa  
+  2023 – 2025  
+  *Google DeepMind Scholar*
 
-## Awards & Scholarships
-* **Google DeepMind Scholarship**, African Institute for Mathematical Sciences (AIMS) | 2025–2026
-* **African Union Scholarship**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI) | 2023–2025
-* **Togolese National Government Scholarship**, Government of Togo | 2015–2018
-
-## Professional Development
-* **Data Analysis for Sustainable Development Goals** | Universitas Pendidikan Indonesia (Summer Course, Jun-Jul 2024)
-  * *Topics: Python, Data Visualization, Machine Learning, Deep Learning, Computer Vision*
-* **Data Science and Scientific Computing Workshop** | Central University of Punjab / MathTech Thinking Foundation, India (Jul 2024)
-  * *Topics: Exploratory Data Analysis, Hypothesis Testing, Machine Learning, NLP, Cloud Computing*
-* **100 Days of Code: Python Pro Bootcamp** | Udemy (Online Course, Feb-Oct 2024)
-
-## Languages
-* **French:** Native Proficiency
-* **English:** Excellent (Written & Spoken)
-
----
-*References available upon request.*
+* **Joint M.Sc. in Mathematics (Statistics Option)**  
+  Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya  
+  2021 – 2023
