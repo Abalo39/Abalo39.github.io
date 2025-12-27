@@ -1,96 +1,215 @@
-# Kouyakou-Abalo SIMSOBA
-
-**Google DeepMind Scholar | AI Researcher**  
-Cape Town, South Africa | kouyakou@aims.ac.za
-
-[Google Scholar] | [ORCID] | [GitHub] *<!-- Replace with actual links -->*
-
----
-
-## Summary
-
-Google DeepMind Scholar specializing in Artificial Intelligence with research interests in robust machine learning, time series forecasting, NLP, and computer vision. Currently pursuing an M.Sc. in Artificial Intelligence for Science at AIMS South Africa.
-
----
-
-## Education
-
-*   **M.Sc. in Artificial Intelligence for Science**, African Institute for Mathematical Sciences (AIMS), South Africa | 2023 – 2025  
-    *Google DeepMind Scholar*
-*   **Joint M.Sc. in Mathematics (Statistics Option)**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya | 2021 – 2023  
-    *Thesis: A Hybrid Minkowski-Log-Cosh loss function for Robust LSTM-based time series forecasting*  
-    *Coursework: Econometrics, Statistical Designs, Research Methodology*
-*   **B.Sc. in Mathematics, Statistics and Socio-economic Applications**, Universite de Kara, Togo | 2018 – 2021  
-    *Coursework: Analysis, Linear Algebra, Programming in C/C++, Database Systems, Statistics*
-*   **Baccalaureat (Mathematics and Physical Sciences, C Series)**, Lycee Scientifique de Kara, Togo | 2015 – 2018  
-    *Awarded Togolese National Government Scholarship*
-
----
-
-## Research & Professional Experience
-
-### **Graduate Researcher**, African Institute for Mathematical Sciences (AIMS) | 2023 – Present
-*   Developed a novel **hybrid Minkowski-Log-Cosh loss function** to enhance the robustness of LSTM networks for time-series forecasting on noisy data.
-*   Applied and evaluated deep learning models on a 10-year public health dataset (2013-2023) to forecast malaria incidence, addressing challenges in epidemiological forecasting.
-*   Demonstrated significant improvements in model robustness and predictive accuracy over traditional loss functions in the presence of outliers.
-
-### **Undergraduate Researcher**, Universite de Kara | 2021 – 2022
-*   Designed and implemented Artificial Neural Network (ANN) models for agricultural yield prediction, integrating climate and soil variables.
-*   Conducted research evaluating the socio-economic impact of online learning during the COVID-19 pandemic on the student population.
-*   Performed comprehensive feature sensitivity analysis to identify and rank key drivers of crop productivity.
-
----
-
-## Technical Skills
-
-*   **Programming:** Python (Advanced), R, MATLAB, SQL, C/C++
-*   **AI/ML Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
-*   **Core Modeling & Techniques:** LSTM Networks, ANN/Deep Learning, Time-Series Analysis, Natural Language Processing (NLP), Computer Vision, Explainable AI (XAI), Statistical Modeling, Feature Engineering
-*   **Data Analysis & Tools:** Pandas, NumPy, STATA, SPSS, Power BI, GIS (Geographic Information Systems), Jupyter Notebooks
-*   **Development & Productivity:** Git/GitHub, LaTeX, MySQL
-
----
-
-## Publications
-
-*   **A Hybrid Minkowski-Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting**, *IEEE Access*, 2025.  
-    `doi:` [10.1109/ACCESS.2025.3626795](https://doi.org/10.1109/ACCESS.2025.3626795)  
-    *Proposed a novel hybrid loss function combining Minkowski and Log-Cosh metrics for robust time-series forecasting using LSTM networks, with applications to noisy epidemiological data.*
-
----
-
-## Awards & Scholarships
-
-*   **Google DeepMind Scholarship**, African Institute for Mathematical Sciences (AIMS) | 2025–2026
-*   **African Union Scholarship**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI) | 2023–2025
-*   **Togolese National Government Scholarship**, Government of Togo | 2015–2018
-
----
-
-## Teaching & Mentorship
-
-*   **Tutor (Volunteer)**, Ecole Polytechnique de Lome, Togo  
-    Instructed Master's students in **Inferential Statistics** (hypothesis testing, parameter estimation) and **Optimization** techniques (KKT Conditions, Gradient methods).
-*   **Teacher**, High School, Kara, Togo  
-    Delivered curriculum for **Physics** (Kinematics, Thermodynamics) and **Mathematics** (Probability, Statistics), developing lesson plans and assessments.
-
----
-
-## Professional Development
-
-*   **Data Analysis for Sustainable Development Goals** | Universitas Pendidikan Indonesia (Summer Course, Jun-Jul 2024)  
-    *Topics: Python, Data Visualization, Machine Learning, Deep Learning, Computer Vision*
-*   **Data Science and Scientific Computing Workshop** | Central University of Punjab / MathTech Thinking Foundation, India (Jul 2024)  
-    *Topics: Exploratory Data Analysis, Hypothesis Testing, Machine Learning, NLP, Cloud Computing*
-*   **100 Days of Code: Python Pro Bootcamp** | Udemy (Online Course, Feb-Oct 2024)
-
----
-
-## Languages & Interests
-
-*   **Languages:** French (Native), English (Excellent Written & Spoken)
-*   **Research Interests:** Robust Machine Learning, Time Series Forecasting, NLP & LLMs, Explainable AI (XAI), Computer Vision, Speech Processing
-
----
-
-*References and portfolio available upon request.*
+{
+  "basics": {
+    "name": "Kouyakou-Abalo SIMSOBA",
+    "label": "Google DeepMind Scholar | AI Researcher",
+    "email": "kouyakou@aims.ac.za",
+    "location": {
+      "city": "Cape Town",
+      "country": "South Africa"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=RtYAMMoAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0009-0005-4050-5040"
+      },
+      {
+        "network": "GitHub",
+        "username": "Abalo39",
+        "url": "https://github.com/Abalo39"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/abalo-simsoba-803a75244/"
+      }
+    ],
+    "summary": "Google DeepMind Scholar specializing in Artificial Intelligence with research interests in robust machine learning, time series forecasting, NLP, and computer vision. Currently pursuing an M.Sc. in Artificial Intelligence for Science at AIMS South Africa."
+  },
+  "education": [
+    {
+      "institution": "African Institute for Mathematical Sciences (AIMS)",
+      "location": "South Africa",
+      "area": "Artificial Intelligence for Science",
+      "studyType": "M.Sc.",
+      "startDate": "2023",
+      "endDate": "2025",
+      "notes": "Google DeepMind Scholar"
+    },
+    {
+      "institution": "Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI)",
+      "location": "Kenya",
+      "area": "Mathematics (Statistics Option)",
+      "studyType": "Joint M.Sc.",
+      "startDate": "2021",
+      "endDate": "2023",
+      "notes": "Thesis: A Hybrid Minkowski-Log-Cosh loss function for Robust LSTM-based time series forecasting",
+      "courses": ["Econometrics", "Statistical Designs", "Research Methodology"]
+    },
+    {
+      "institution": "Université de Kara",
+      "location": "Togo",
+      "area": "Mathematics, Statistics and Socio-economic Applications",
+      "studyType": "B.Sc.",
+      "startDate": "2018",
+      "endDate": "2021",
+      "courses": ["Analysis", "Linear Algebra", "Programming in C/C++", "Database Systems", "Statistics"]
+    },
+    {
+      "institution": "Lycée Scientifique de Kara",
+      "location": "Togo",
+      "area": "Mathematics and Physical Sciences (C Series)",
+      "studyType": "Baccalaureat",
+      "startDate": "2015",
+      "endDate": "2018",
+      "notes": "Awarded Togolese National Government Scholarship"
+    }
+  ],
+  "work": [
+    {
+      "name": "African Institute for Mathematical Sciences (AIMS)",
+      "position": "Graduate Researcher",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Research on robust machine learning and time series forecasting for epidemiological applications.",
+      "highlights": [
+        "Developed a novel hybrid Minkowski-Log-Cosh loss function to enhance LSTM robustness against outliers",
+        "Applied deep learning models to 10-year public health dataset (2013-2023) for malaria incidence forecasting",
+        "Demonstrated significant improvements in predictive accuracy over traditional loss functions in noisy data"
+      ]
+    },
+    {
+      "name": "Université de Kara",
+      "position": "Undergraduate Researcher",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Research on agricultural yield prediction and educational impact assessment.",
+      "highlights": [
+        "Designed and implemented ANN models for agricultural yield prediction using climate and soil variables",
+        "Conducted research evaluating socio-economic impact of online learning during COVID-19 pandemic",
+        "Performed comprehensive feature sensitivity analysis to identify key drivers of crop productivity"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": ["Python (Advanced)", "R", "MATLAB", "SQL", "C/C++"],
+    "aiMlFrameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
+    "modelingTechniques": ["LSTM Networks", "ANN/Deep Learning", "Time-Series Analysis", "Natural Language Processing (NLP)", "Computer Vision", "Explainable AI (XAI)", "Statistical Modeling", "Feature Engineering"],
+    "dataTools": ["Pandas", "NumPy", "STATA", "SPSS", "Power BI", "GIS (Geographic Information Systems)", "Jupyter Notebooks"],
+    "developmentTools": ["Git/GitHub", "LaTeX", "MySQL"]
+  },
+  "publications": [
+    {
+      "name": "A Hybrid Minkowski-Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting",
+      "publisher": "IEEE Access",
+      "releaseDate": "2025",
+      "volume": "13",
+      "pages": "187307-187319",
+      "doi": "10.1109/ACCESS.2025.3626795",
+      "url": "https://doi.org/10.1109/ACCESS.2025.3626795",
+      "summary": "Proposed a novel hybrid loss function combining Minkowski and Log-Cosh metrics for robust time-series forecasting using LSTM networks, with applications to noisy epidemiological data."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Google DeepMind Scholarship",
+      "awarder": "African Institute for Mathematical Sciences (AIMS)",
+      "date": "2025-2026"
+    },
+    {
+      "title": "African Union Scholarship",
+      "awarder": "Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI)",
+      "date": "2023-2025"
+    },
+    {
+      "title": "Togolese National Government Scholarship",
+      "awarder": "Government of Togo",
+      "date": "2015-2018"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "École Polytechnique de Lomé",
+      "position": "Tutor (Volunteer)",
+      "startDate": "2023",
+      "summary": "Instructed Master's students in the Big Data program",
+      "highlights": [
+        "Taught Inferential Statistics (hypothesis testing, parameter estimation)",
+        "Taught Optimization techniques (KKT Conditions, Gradient methods)"
+      ]
+    },
+    {
+      "organization": "High School, Kara",
+      "position": "Teacher",
+      "startDate": "2019",
+      "endDate": "2023",
+      "summary": "Delivered high school curriculum in Mathematics and Physics",
+      "highlights": [
+        "Taught Physics: Kinematics, Thermodynamics",
+        "Taught Mathematics: Probability, Statistics",
+        "Developed lesson plans and assessments"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Data Analysis for Sustainable Development Goals",
+      "issuer": "Universitas Pendidikan Indonesia",
+      "date": "2024-06",
+      "endDate": "2024-07",
+      "type": "Summer Course",
+      "keywords": ["Python", "Data Visualization", "Machine Learning", "Deep Learning", "Computer Vision"]
+    },
+    {
+      "name": "Data Science and Scientific Computing Workshop",
+      "issuer": "Central University of Punjab / MathTech Thinking Foundation, India",
+      "date": "2024-07",
+      "type": "Workshop",
+      "keywords": ["Exploratory Data Analysis", "Hypothesis Testing", "Machine Learning", "NLP", "Cloud Computing"]
+    },
+    {
+      "name": "100 Days of Code: Python Pro Bootcamp",
+      "issuer": "Udemy",
+      "date": "2024-02",
+      "endDate": "2024-10",
+      "type": "Online Course"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Excellent (Written & Spoken)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Robust Machine Learning"
+    },
+    {
+      "name": "Time Series Forecasting"
+    },
+    {
+      "name": "NLP & LLMs"
+    },
+    {
+      "name": "Explainable AI (XAI)"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "Speech Processing"
+    }
+  ],
+  "references": [
+    {
+      "note": "References available upon request"
+    }
+  ]
+}
