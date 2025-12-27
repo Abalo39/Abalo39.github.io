@@ -8,26 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Google DeepMind Scholar** currently pursuing an M.Sc. in **Artificial Intelligence for Science** at the **African Institute for Mathematical Sciences (AIMS)**, South Africa. My research focus lies in developing robust machine learning methodologies, with a particular interest in time series forecasting and deep learning architectures that can handle noisy, real-world data.
+I am a **Google DeepMind Scholar** currently pursuing an M.Sc. in **Artificial Intelligence for Science** at the **African Institute for Mathematical Sciences (AIMS)**, South Africa. My mission is to bridge the gap between complex mathematical theory and impactful real-world applications.
 
-## Research Focus
-My recent work involves the development of a **Hybrid Minkowski–Log–Cosh loss function**. This novel approach enhances the robustness of **Long Short-Term Memory (LSTM)** models, which I have applied to predict malaria incidence using a 10-year dataset from 2013 to 2023.
+### Research Focus
 
+My research lies in developing robust machine learning methodologies, with a particular interest in deep learning architectures that can handle noisy, real-world data. My recent work includes:
 
+* **Novel Loss Functions**: Developed a Hybrid Minkowski–Log–Cosh loss function to enhance the robustness of neural networks.
+* **Epidemiological Modeling**: Applied robust LSTM models to predict malaria incidence using a 10-year public health dataset (2013–2023).
+* **Robust Forecasting**: Investigating time series methodologies that maintain high accuracy despite outliers and data contamination.
 
-## Academic Journey
-* **M.Sc. in AI for Science** | AIMS South Africa | *2025 – Present*
-* **Joint M.Sc. in Mathematics (Statistics)** | PAUSTI, Kenya | *2023 – 2025*
+### Academic Journey
+
+* **M.Sc. in AI for Science** | AIMS South Africa | *2023 – Present*
+* **Joint M.Sc. in Mathematics (Statistics)** | PAUSTI, Kenya | *2021 – 2023*
 * **B.Sc. in Mathematics & Statistics** | Université de Kara, Togo | *2018 – 2021*
 
-## Technical Expertise
-* **Programming**: Python (Advanced), R, MATLAB, SQL
-* **Machine Learning**: LSTM Networks, Deep Learning, Feature Engineering
-* **Tools**: PyTorch, TensorFlow, Power BI, LaTeX, GitHub
+### Technical Expertise
 
-## Leadership & Teaching
-I am committed to academic mentorship, having served as a **Mathematics and Physics teacher** for four years in Togo and a volunteer tutor for Master’s students in **Big Data**, specializing in inferential statistics and optimization.
+* **Programming**: Python (Advanced), R, MATLAB, SQL, C/C++
+* **Machine Learning**: LSTM Networks, Deep Learning, Scikit-learn, PyTorch, TensorFlow
+* **Tools & Analysis**: Power BI, STATA, LaTeX, GitHub, Jupyter Notebooks
+
+### Leadership & Teaching
+
+I am deeply committed to academic mentorship and have shared my expertise across various levels:
+
+* **Master’s Level**: Volunteer tutor for Big Data students, specializing in inferential statistics and optimization techniques (KKT Conditions, Gradient methods).
+* **High School Level**: Four years of experience teaching Mathematics and Physics (Kinematics, Thermodynamics, and Probability) in Togo.
 
 ---
-<i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Cape Town, South Africa
-<i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [kouyakou@aims.ac.za](mailto:kouyakou@aims.ac.za)
+
+* <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Cape Town, South Africa
+* <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [kouyakou@aims.ac.za](mailto:kouyakou@aims.ac.za)
