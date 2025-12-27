@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
@@ -95,31 +95,13 @@
       "gpa": null,
       "courses": [],
       "notes": "Awarded Togolese National Government Scholarship"
-    },
-    {
-      "institution": "Universitas Pendidikan Indonesia",
-      "area": "Data Analysis for Sustainable Development Goals",
-      "studyType": "Summer Course",
-      "startDate": "2024-06",
-      "endDate": "2024-07",
-      "gpa": null,
-      "courses": ["Python programming", "Data visualization", "Machine learning", "Deep learning", "Computer vision"]
-    },
-    {
-      "institution": "Central University of Punjab / MathTech Thinking Foundation, India",
-      "area": "Data Science and Scientific Computing",
-      "studyType": "Workshop",
-      "startDate": "2024-07",
-      "endDate": "2024-07",
-      "gpa": null,
-      "courses": ["Exploratory data analysis", "Hypothesis testing", "Machine learning", "NLP", "Cloud computing"]
     }
   ],
   "skills": [
-    "Programming Languages: Python (Advanced), R (Intermediate), MATLAB (Intermediate), SQL (Intermediate)",
-    "Machine Learning & AI: LSTM Networks, ANN Architectures, Deep Learning, Time-Series Analysis, Statistical Modeling, Feature Engineering",
-    "Data Analysis Tools: Power BI, STATA, SPSS, GIS, MySQL, Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch",
-    "Research Tools: LaTeX, GitHub, Google Colab, Jupyter Notebooks, Overleaf"
+    "Programming: Python (Advanced), R, MATLAB, SQL, C/C++",
+    "AI/ML: LSTM Networks, ANN Architectures, Time-Series Analysis, Scikit-learn, TensorFlow/PyTorch",
+    "Analysis & Research: Power BI, STATA, SPSS, GIS, LaTeX, GitHub, Jupyter Notebooks",
+    "Data Management: MySQL, Pandas, NumPy, Statistical Modeling, Feature Engineering"
   ],
   "languages": [
     {
@@ -155,14 +137,14 @@
       "institution": "High School, Kara, Togo",
       "date": "",
       "role": "Teacher",
-      "description": "Delivered high school-level instruction in mathematics and physics with emphasis on conceptual understanding, analytical reasoning, and systematic problem-solving."
+      "description": "Delivered high school-level instruction covering Physics topics including Kinematics and Thermodynamics, and Mathematics including Probability theory and statistical concepts. Developed curriculum materials and assessment tools for diverse student cohorts."
     },
     {
       "course": "Inferential Statistics and Optimization",
       "institution": "Ecole Polytechnique de Lome, Togo",
       "date": "",
       "role": "Tutor (Volunteer)",
-      "description": "Provided tutorial instruction in inferential statistics and optimization to first-year Master's students in the Big Data program."
+      "description": "Provided instruction in Inferential Statistics including hypothesis testing and parameter estimation. Taught Optimization techniques including KKT Conditions and Gradient methods. Supported Master's students in developing advanced analytical skills."
     }
   ],
   "awards": [
@@ -180,6 +162,29 @@
       "title": "Togolese National Government Scholarship",
       "awarder": "Government of Togo",
       "date": "2015-2018"
+    }
+  ],
+  "professional_development": [
+    {
+      "name": "Data Analysis for Sustainable Development Goals",
+      "institution": "Universitas Pendidikan Indonesia",
+      "type": "Summer Course",
+      "date": "Jun-Jul 2024",
+      "description": "Python programming, data visualization, machine learning, deep learning, computer vision"
+    },
+    {
+      "name": "Data Science and Scientific Computing",
+      "institution": "Central University of Punjab / MathTech Thinking Foundation, India",
+      "type": "Workshop",
+      "date": "Jul 2024",
+      "description": "Exploratory data analysis, hypothesis testing, machine learning, NLP, cloud computing"
+    },
+    {
+      "name": "100 Days of Code: Python Pro Bootcamp",
+      "institution": "Udemy",
+      "type": "Online Course",
+      "date": "Feb-Oct 2024",
+      "description": "Comprehensive Python programming course"
     }
   ],
   "portfolio": []
