@@ -30,10 +30,10 @@ redirect_from:
   * *Thesis: Evaluating the Effects of Online Learning on the Student Population of the Université de Kara During the COVID-19 Pandemic*
 
 ## Peer-Reviewed Publications
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-* **Simsoba, K.-A.**, Oscar, N., & Mageto, T. (2025). "A Hybrid Minkowski-Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting." *IEEE Access*, 13, 187307–187319. [[DOI]](https://doi.org/10.1109/ACCESS.2025.3626795)
 
 ## Research Experience
 * **Graduate Research Project**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI) | 2024–2025
