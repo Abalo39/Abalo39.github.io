@@ -1,6 +1,5 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme               : "default"
 title                    : "Kouyakou-Abalo SIMSOBA"
 title_separator          : "-"
 name                     : &name "Kouyakou-Abalo SIMSOBA"
@@ -13,7 +12,6 @@ repository               : "Abalo39/Abalo39.github.io"
 author:
   avatar           : "profile.png"
   name             : "Kouyakou-Abalo SIMSOBA"
-  pronouns         : "" # Removed per request
   bio              : "Google DeepMind Scholar at AIMS South Africa. Researcher in Robust ML, Time Series Forecasting, and NLP."
   location         : "Cape Town, South Africa"
   employer         : "African Institute for Mathematical Sciences (AIMS)"
@@ -82,9 +80,8 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins
+# Plugins (only those supported by GitHub Pages)
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
