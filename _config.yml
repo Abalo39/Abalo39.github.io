@@ -5,13 +5,13 @@
 
 # Basic Site Settings
 locale                  : "en-US"
-site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # options: "default", "air", "sunrise", "mint", "dirt", "contrast"
 title                    : "Kouyakou-Abalo SIMSOBA"
 title_separator          : "-"
 name                     : &name "Kouyakou-Abalo SIMSOBA"
 description              : &description "Google DeepMind Scholar | Artificial Intelligence for Science"
 url                      : "https://Abalo39.github.io" 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" 
 repository               : "Abalo39/Abalo39.github.io"
 
 # Site Author
@@ -20,7 +20,7 @@ author:
   avatar           : "profile.png"
   name             : "Kouyakou-Abalo SIMSOBA"
   pronouns         : "he/him"  
-  bio              : "Google DeepMind Scholar at AIMS South Africa. Researcher in Robust ML and Time Series Forecasting."
+  bio              : "Google DeepMind Scholar at AIMS South Africa. Researcher in Robust ML, Time Series Forecasting, and NLP."
   location         : "Cape Town, South Africa"
   employer         : "African Institute for Mathematical Sciences (AIMS)"
   uri              : 
@@ -60,7 +60,7 @@ author:
   keybase           : 
   instagram         : 
   lastfm            : 
-  linkedin          : "Abalo39" # Update with your full profile slug if different
+  linkedin          : "Abalo39" 
   mastodon          : 
   medium            : 
   pinterest         : 
