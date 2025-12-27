@@ -14,45 +14,53 @@ redirect_from:
 </div>
 
 ## Research Interests
-* [cite_start]**Robust Machine Learning:** Resilience to noisy data[cite: 8].
-* [cite_start]**Time Series Forecasting:** Deep learning methodologies[cite: 9].
-* [cite_start]**NLP & LLMs:** Natural Language Processing and Large Language Models[cite: 10].
-* [cite_start]**Explainable AI (XAI):** Model interpretability[cite: 11].
-* [cite_start]**Computer Vision & Speech:** Advanced signal processing[cite: 12].
+* **Robust Machine Learning:** Developing methodologies and loss functions resilient to noisy data and outliers.
+* **Time Series Forecasting:** Deep learning approaches for temporal data analysis and prediction.
+* **NLP & LLMs:** Natural Language Processing and Large Language Model applications.
+* **Explainable AI (XAI):** Enhancing model interpretability and transparency.
+* **Computer Vision & Speech Processing:** Advanced signal and image analysis techniques.
 
 ## Education
-* **M.Sc. in Artificial Intelligence for Science** | AIMS, South Africa | *2025 – Present*
-  * [cite_start]**Google DeepMind Scholar** [cite: 15, 16, 17]
-* **Joint M.Sc. in Mathematics (Statistics Option)** | PAUSTI, Kenya | *2023 – 2025*
-  * [cite_start]*Thesis: A Hybrid Minkowski-Log-Cosh loss function for RobustLSTM-based time series forecasting* [cite: 19, 21, 22]
-* **B.Sc. in Mathematics, Statistics and Socio-economic Applications** | Université de Kara, Togo | *2018 – 2021*
-  * [cite_start]*Thesis: Evaluating the Effects of Online Learning... During the COVID-19 Pandemic* [cite: 24, 25, 28]
+* **M.Sc. in Artificial Intelligence for Science**, African Institute for Mathematical Sciences (AIMS), South Africa | 2023 – 2025
+  * **Google DeepMind Scholar**
+* **Joint M.Sc. in Mathematics (Statistics Option)**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya | 2021 – 2023
+  * *Thesis: A Hybrid Minkowski-Log-Cosh loss function for Robust LSTM-based time series forecasting*
+  * *African Union Scholar*
+* **B.Sc. in Mathematics, Statistics and Socio-economic Applications**, Université de Kara, Togo | 2018 – 2021
+  * *Thesis: Evaluating the Effects of Online Learning on the Student Population of the Université de Kara During the COVID-19 Pandemic*
 
 ## Peer-Reviewed Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-* **Simsoba, K.-A.**, et al. (2025). "A Hybrid Minkowski-Log-Cosh Loss Function for Robust LSTM-Based Time Series Forecasting." [cite_start]*IEEE Access*, 13, 187307-187319[cite: 33, 34].
+* **Simsoba, K.-A.**, Oscar, N., & Mageto, T. (2025). "A Hybrid Minkowski-Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting." *IEEE Access*, 13, 187307–187319. [[DOI]](https://doi.org/10.1109/ACCESS.2025.3626795)
 
 ## Research Experience
-* **Graduate Research Project | PAUSTI** | *2024–2025*
-  * [cite_start]Developed novel hybrid Minkowski-Log-Cosh loss function[cite: 39].
-  * [cite_start]Applied LSTM models to predict malaria cases using 10-year data[cite: 39].
-* **Undergraduate Research Project | Université de Kara** | *2021–2022*
-  * [cite_start]Designed ANN models for agricultural yield prediction using climate variables[cite: 45].
+* **Graduate Research Project**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI) | 2024–2025
+  * Developed a novel **hybrid Minkowski-Log-Cosh loss function** to enhance LSTM robustness against outliers in time series forecasting.
+  * Applied LSTM models to predict malaria case incidence using 10 years of epidemiological data (2013-2023), demonstrating improved accuracy in noisy public health datasets.
+
+* **Undergraduate Research Project**, Université de Kara | 2021–2022
+  * Designed **Artificial Neural Network (ANN) models** for agricultural yield prediction, integrating climate, soil, and environmental variables.
+  * Conducted feature sensitivity analysis to identify key predictive factors for crop productivity optimization.
 
 ## Teaching Experience
-* **Mathematics and Physics Teacher | Kara, Togo** | *2019–2023*
-  * [cite_start]High school instruction in Kinematics, Thermodynamics, and Probability[cite: 75, 77, 91, 97].
-* **Tutor | Big Data Master’s Program | École Polytechnique de Lomé** | *2023*
-  * [cite_start]Taught Inferential Statistics and Optimization (KKT Conditions, Gradient methods)[cite: 100, 102, 111, 112].
+* **Mathematics and Physics Teacher**, High Schools, Kara, Togo | 2019–2023
+  * Delivered comprehensive high school curriculum in **Physics** (Kinematics, Thermodynamics, Electricity) and **Mathematics** (Probability, Analysis, Geometry).
+  * Developed interactive lesson plans and assessment tools to enhance student engagement and understanding of complex scientific concepts.
+
+* **Tutor (Volunteer)**, École Polytechnique de Lomé, Togo | 2023
+  * Instructed Master's students in the Big Data program on **Inferential Statistics** (hypothesis testing, confidence intervals) and **Optimization** techniques (KKT Conditions, Gradient-based methods).
+  * Provided academic support and developed specialized course materials for advanced analytical coursework.
 
 ## Technical Skills
-* [cite_start]**Programming:** Python (Advanced), R, MATLAB, SQL, C/C++[cite: 49, 26].
-* [cite_start]**AI/ML:** LSTM, ANN, Time-Series, Scikit-learn, TensorFlow/PyTorch[cite: 50, 51, 52].
-* [cite_start]**Analysis & Research:** Power BI, STATA, GIS, LaTeX, GitHub[cite: 51, 53].
+* **Programming Languages:** Python (Advanced), R, MATLAB, SQL, C/C++
+* **AI/ML Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy
+* **Data Analysis & Visualization:** Power BI, STATA, SPSS, GIS (Geographic Information Systems)
+* **Research & Development Tools:** LaTeX, GitHub, Jupyter Notebooks, Google Colab, Overleaf
+* **Specialized Domains:** Time Series Analysis, Natural Language Processing, Computer Vision, Explainable AI
 
 ## Awards & Honors
-* **Google DeepMind Scholar** | [cite_start]AIMS South Africa (2025–2026)[cite: 56, 59].
-* **African Union Scholarship** | [cite_start]PAUSTI (2023–2025)[cite: 56, 60].
-* [cite_start]**Togolese National Government Scholarship** (2015–2018)[cite: 58, 61].
+* **Google DeepMind Scholarship**, African Institute for Mathematical Sciences (AIMS) | 2025–2026
+* **African Union Scholarship**, Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI) | 2023–2025
+* **Togolese National Government Scholarship**, Government of Togo | 2015–2018
