@@ -1,135 +1,191 @@
-# Kouyakou-Abalo SIMSOBA
-
-📍 **Cape Town, Western Cape, South Africa**  
-📧 **Email:** kouyakou@aims.ac.za  
-
----
-
-## 🧠 Professional Summary
-Google DeepMind Scholar specializing in **Artificial Intelligence**, with strong research interests in **robust machine learning**, **time series forecasting**, **Natural Language Processing**, and **Computer Vision**. Currently pursuing an **M.Sc. in Artificial Intelligence for Science** at the **African Institute for Mathematical Sciences (AIMS), South Africa**.
-
----
-
-## 💼 Research & Work Experience
-
-### **Graduate Researcher**  
-**African Institute for Mathematical Sciences (AIMS)**  
-*2023 – Present*  
-- Developed a **novel hybrid Minkowski–Log-Cosh loss function** for robust time-series forecasting  
-- Applied **LSTM models** to predict malaria cases using 10-year public health data (2013–2023)  
-- Addressed challenges of **noise and outliers** in epidemiological datasets  
-- Demonstrated improved robustness over traditional forecasting methods  
-
----
-
-### **Undergraduate Researcher**  
-**Université de Kara, Togo**  
-*2021 – 2022*  
-- Evaluated the effects of **online learning during COVID-19**  
-- Designed **ANN models** for agricultural yield prediction  
-- Integrated climate and soil variables with **feature sensitivity analysis**
-
----
-
-## 🎓 Education
-
-### **M.Sc. in Artificial Intelligence for Science**  
-**African Institute for Mathematical Sciences (AIMS), South Africa**  
-*2023 – 2025*  
-- 🎓 *Google DeepMind Scholar*
-
----
-
-### **Joint M.Sc. in Mathematics (Statistics Option)**  
-**Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya**  
-*2021 – 2023*  
-- **Key Courses:** Econometrics, Statistical Designs, Research Methodology  
-- **Thesis:** *A Hybrid Minkowski–Log-Cosh Loss Function for Robust LSTM-Based Time Series Forecasting*
-
----
-
-### **B.Sc. in Mathematics, Statistics and Socio-economic Applications**  
-**Université de Kara, Togo**  
-*2018 – 2021*  
-- **Key Courses:** Analysis, Linear Algebra, Statistics, Programming (C/C++), Database Systems  
-
----
-
-### **Baccalaureate (Mathematics & Physical Sciences – C Series)**  
-**Lycée Scientifique de Kara, Togo**  
-*2015 – 2018*  
-- 🎖️ *Togolese National Government Scholarship*
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming:** Python (Advanced), R, MATLAB, SQL, C/C++  
-- **AI & Machine Learning:** LSTM, ANN, Time-Series Analysis, Scikit-learn, TensorFlow, PyTorch  
-- **Data & Research Tools:** Power BI, STATA, SPSS, GIS, LaTeX, Git, Jupyter Notebooks  
-- **Data Management:** Pandas, NumPy, MySQL, Statistical Modeling, Feature Engineering  
-
----
-
-## 🌍 Languages
-
-- **French:** Native  
-- **English:** Excellent (Written & Spoken)
-
----
-
-## 📚 Publications
-
-**A Hybrid Minkowski–Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting**  
-*IEEE Access, 2025*  
-🔗 https://doi.org/10.1109/ACCESS.2025.3626795  
-- Proposed a novel hybrid loss function for robust LSTM-based forecasting on noisy epidemiological data
-
----
-
-## 👨‍🏫 Teaching Experience
-
-### **Teacher – Mathematics & Physics**  
-**High School, Kara, Togo**  
-- Taught Physics (Kinematics, Thermodynamics) and Mathematics (Probability, Statistics)  
-- Developed curriculum materials and assessment tools  
-
----
-
-### **Tutor (Volunteer) – Inferential Statistics & Optimization**  
-**École Polytechnique de Lomé, Togo**  
-- Covered hypothesis testing, parameter estimation, KKT conditions, and gradient methods  
-- Supported Master’s students in advanced analytical techniques  
-
----
-
-## 🏆 Awards & Scholarships
-
-- **Google DeepMind Scholar** – AIMS *(2025–2026)*  
-- **African Union Scholarship** – PAUSTI *(2023–2025)*  
-- **Togolese National Government Scholarship** *(2015–2018)*  
-
----
-
-## 📈 Professional Development
-
-- **Data Analysis for Sustainable Development Goals**  
-  *Universitas Pendidikan Indonesia, Summer Course (Jun–Jul 2024)*  
-  - Python, ML, DL, Computer Vision, Data Visualization  
-
-- **Data Science & Scientific Computing Workshop**  
-  *Central University of Punjab / MathTech Thinking Foundation, India (Jul 2024)*  
-  - EDA, Hypothesis Testing, ML, NLP, Cloud Computing  
-
-- **100 Days of Code: Python Pro Bootcamp**  
-  *Udemy (Feb–Oct 2024)*  
-
----
-
-## 🔬 Research Interests
-
-- Robust Machine Learning for noisy data  
-- Time Series Forecasting & Deep Learning  
-- Natural Language Processing & Large Language Models  
-- Explainable Artificial Intelligence (XAI)  
-- Computer Vision & Speech Processing  
+{
+  "basics": {
+    "name": "Kouyakou-Abalo SIMSOBA",
+    "email": "kouyakou@aims.ac.za",
+    "phone": "",
+    "website": "",
+    "summary": "Google DeepMind Scholar specializing in Artificial Intelligence with research interests in robust machine learning, time series forecasting, NLP, and computer vision. Currently pursuing an M.Sc. in Artificial Intelligence for Science at AIMS South Africa.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cape Town",
+      "countryCode": "ZA",
+      "region": "Western Cape"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "African Institute for Mathematical Sciences (AIMS)",
+      "position": "Graduate Researcher",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Developed novel hybrid Minkowski-Log-Cosh loss function for robust time-series forecasting. Applied LSTM models to predict malaria cases using 10-year public health data (2013-2023). Addressed challenges of noisy and outlier-contaminated data in epidemiological forecasting.",
+      "highlights": [
+        "Developed hybrid loss function for robust LSTM forecasting",
+        "Applied models to real-world malaria incidence data",
+        "Demonstrated improved robustness over traditional methods"
+      ]
+    },
+    {
+      "company": "Universite de Kara",
+      "position": "Undergraduate Researcher",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Conducted research evaluating effects of online learning during COVID-19 pandemic and developed ANN models for agricultural yield prediction.",
+      "highlights": [
+        "Evaluated online learning impact on student population",
+        "Designed ANN models integrating climate and soil variables",
+        "Conducted feature sensitivity analysis for predictive factors"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "African Institute for Mathematical Sciences (AIMS), South Africa",
+      "area": "M.Sc. in Artificial Intelligence for Science",
+      "studyType": "Master's",
+      "startDate": "2023",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": [],
+      "notes": "Google DeepMind Scholar"
+    },
+    {
+      "institution": "Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya",
+      "area": "Joint M.Sc. in Mathematics (Statistics Option)",
+      "studyType": "Master's",
+      "startDate": "2021",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": ["Econometrics", "Statistical Designs", "Research Methodology"],
+      "notes": "Thesis: A Hybrid Minkowski-Log-Cosh loss function for Robust LSTM-based time series forecasting"
+    },
+    {
+      "institution": "Universite de Kara, Togo",
+      "area": "B.Sc. in Mathematics, Statistics and Socio-economic Applications",
+      "studyType": "Bachelor's",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": ["Analysis", "Linear Algebra", "Programming in C/C++", "Database Systems", "Statistics"]
+    },
+    {
+      "institution": "Lycee Scientifique de Kara, Togo",
+      "area": "Baccalaureat (Mathematics and Physical Sciences, C Series)",
+      "studyType": "High School",
+      "startDate": "2015",
+      "endDate": "2018",
+      "gpa": null,
+      "courses": [],
+      "notes": "Awarded Togolese National Government Scholarship"
+    }
+  ],
+  "skills": [
+    "Programming: Python (Advanced), R, MATLAB, SQL, C/C++",
+    "AI/ML: LSTM Networks, ANN Architectures, Time-Series Analysis, Scikit-learn, TensorFlow/PyTorch",
+    "Analysis & Research: Power BI, STATA, SPSS, GIS, LaTeX, GitHub, Jupyter Notebooks",
+    "Data Management: MySQL, Pandas, NumPy, Statistical Modeling, Feature Engineering"
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Excellent Written & Spoken"
+    }
+  ],
+  "interests": [
+    "Robust machine learning with applications to noisy data",
+    "Time series forecasting and deep learning methodologies",
+    "Natural Language Processing & Large Language Models",
+    "Explainable Artificial Intelligence (XAI)",
+    "Computer Vision and Speech Processing"
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "A Hybrid Minkowski-Log-Cosh Loss Function for Robust Long Short-Term Memory-Based Time Series Forecasting",
+      "publisher": "IEEE Access",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1109/ACCESS.2025.3626795",
+      "summary": "Proposed a novel hybrid loss function combining Minkowski and Log-Cosh metrics for robust time-series forecasting using LSTM networks, with applications to noisy epidemiological data."
+    }
+  ],
+  "presentations": [],
+  "teaching": [
+    {
+      "course": "Mathematics and Physics",
+      "institution": "High School, Kara, Togo",
+      "date": "",
+      "role": "Teacher",
+      "description": "Delivered high school-level instruction covering Physics topics including Kinematics and Thermodynamics, and Mathematics including Probability theory and statistical concepts. Developed curriculum materials and assessment tools for diverse student cohorts."
+    },
+    {
+      "course": "Inferential Statistics and Optimization",
+      "institution": "Ecole Polytechnique de Lome, Togo",
+      "date": "",
+      "role": "Tutor (Volunteer)",
+      "description": "Provided instruction in Inferential Statistics including hypothesis testing and parameter estimation. Taught Optimization techniques including KKT Conditions and Gradient methods. Supported Master's students in developing advanced analytical skills."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Google DeepMind Scholar",
+      "awarder": "African Institute for Mathematical Sciences (AIMS)",
+      "date": "2025-2026"
+    },
+    {
+      "title": "African Union Scholarship",
+      "awarder": "Pan African University Institute for Basic Sciences, Technology and Innovation",
+      "date": "2023-2025"
+    },
+    {
+      "title": "Togolese National Government Scholarship",
+      "awarder": "Government of Togo",
+      "date": "2015-2018"
+    }
+  ],
+  "professional_development": [
+    {
+      "name": "Data Analysis for Sustainable Development Goals",
+      "institution": "Universitas Pendidikan Indonesia",
+      "type": "Summer Course",
+      "date": "Jun-Jul 2024",
+      "description": "Python programming, data visualization, machine learning, deep learning, computer vision"
+    },
+    {
+      "name": "Data Science and Scientific Computing",
+      "institution": "Central University of Punjab / MathTech Thinking Foundation, India",
+      "type": "Workshop",
+      "date": "Jul 2024",
+      "description": "Exploratory data analysis, hypothesis testing, machine learning, NLP, cloud computing"
+    },
+    {
+      "name": "100 Days of Code: Python Pro Bootcamp",
+      "institution": "Udemy",
+      "type": "Online Course",
+      "date": "Feb-Oct 2024",
+      "description": "Comprehensive Python programming course"
+    }
+  ],
+  "portfolio": []
+}
