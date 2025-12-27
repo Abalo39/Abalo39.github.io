@@ -20,9 +20,9 @@ My research lies in developing robust machine learning methodologies, with a par
 
 ### Academic Journey
 
-* **M.Sc. in AI for Science** | AIMS South Africa | *2023 – Present*
-* **Joint M.Sc. in Mathematics (Statistics)** | PAUSTI, Kenya | *2021 – 2023*
-* **B.Sc. in Mathematics & Statistics** | Université de Kara, Togo | *2018 – 2021*
+* **M.Sc. in Artificial Intelligence for Science** African Institute for Mathematical Sciences (AIMS), South Africa, 2023 – Present
+* **Joint M.Sc. in Mathematics (Statistics Option)** Pan African University (PAUSTI), Kenya, 2021 – 2023
+* **B.Sc. in Mathematics & Statistics** Université de Kara, Togo, 2018 – 2021
 
 ### Technical Expertise
 
