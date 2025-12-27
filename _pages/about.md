@@ -20,9 +20,15 @@ My research lies in developing robust machine learning methodologies, with a par
 
 ### Academic Journey
 
-* **M.Sc. in Artificial Intelligence for Science** African Institute for Mathematical Sciences (AIMS), South Africa, 2023 – Present
-* **Joint M.Sc. in Mathematics (Statistics Option)** Pan African University (PAUSTI), Kenya, 2021 – 2023
-* **B.Sc. in Mathematics & Statistics** Université de Kara, Togo, 2018 – 2021
+<div style="margin-bottom: 12px;">
+  <strong>M.Sc. in Artificial Intelligence for Science</strong> — AIMS South Africa (2023 – Present)
+</div>
+<div style="margin-bottom: 12px;">
+  <strong>Joint M.Sc. in Mathematics (Statistics Option)</strong> — PAUSTI, Kenya (2021 – 2023)
+</div>
+<div style="margin-bottom: 12px;">
+  <strong>B.Sc. in Mathematics & Statistics</strong> — Université de Kara, Togo (2018 – 2021)
+</div>
 
 ### Technical Expertise
 
@@ -32,10 +38,12 @@ My research lies in developing robust machine learning methodologies, with a par
 
 ### Leadership & Teaching
 
-I am deeply committed to academic mentorship and have shared my expertise across various levels:
-
-* **Master’s Level**: Volunteer tutor for Big Data students, specializing in inferential statistics and optimization techniques (KKT Conditions, Gradient methods).
-* **High School Level**: Four years of experience teaching Mathematics and Physics (Kinematics, Thermodynamics, and Probability) in Togo.
+<div style="margin-bottom: 12px;">
+  <strong>Tutor (Volunteer)</strong> — Ecole Polytechnique de Lomé. Instructed Master’s students in Inferential Statistics and Optimization techniques.
+</div>
+<div style="margin-bottom: 12px;">
+  <strong>Mathematics and Physics Teacher</strong> — High School, Togo. Delivered curriculum in Physics and Probability for four years.
+</div>
 
 ---
 
