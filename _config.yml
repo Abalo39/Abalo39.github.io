@@ -1,34 +1,34 @@
 # Basic Site Settings
-locale                  : "en-US"
-title                    : "Kouyakou-Abalo SIMSOBA"
-title_separator          : "-"
-name                     : &name "Kouyakou-Abalo SIMSOBA"
-description              : &description "Google DeepMind Scholar | Artificial Intelligence for Science"
-url                      : "https://Abalo39.github.io" 
-baseurl                  : "" 
-repository               : "Abalo39/Abalo39.github.io"
+locale: "en-US"
+title: "Kouyakou-Abalo SIMSOBA"
+title_separator: "-"
+name: &name "Kouyakou-Abalo SIMSOBA"
+description: &description "Google DeepMind Scholar | Artificial Intelligence for Science"
+url: "https://abalo39.github.io"  # Fixed: lowercase
+baseurl: ""
+repository: "Abalo39/Abalo39.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
-  name             : "Kouyakou-Abalo SIMSOBA"
-  bio              : "Google DeepMind Scholar at AIMS South Africa. Researcher in Robust ML, Time Series Forecasting, and NLP."
-  location         : "Cape Town, South Africa"
-  employer         : "African Institute for Mathematical Sciences (AIMS)"
-  email            : "kouyakou@aims.ac.za" 
-
+  name: "Kouyakou-Abalo SIMSOBA"
+  avatar: "/assets/images/profile.png"  # Fixed: added path
+  bio: "Google DeepMind Scholar at AIMS South Africa. Researcher in Robust ML, Time Series Forecasting, and NLP."
+  location: "Cape Town, South Africa"
+  employer: "African Institute for Mathematical Sciences (AIMS)"
+  email: "kouyakou@aims.ac.za"
+  
   # Academic & Professional Links
-  googlescholar     : "https://scholar.google.com/citations?hl=en&user=RtYAMMoAAAAJ"
-  orcid             : "https://orcid.org/0009-0005-4050-5040"
-  github            : "Abalo39"
-  linkedin          : "https://www.linkedin.com/in/abalo-simsoba-803a75244/" 
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=RtYAMMoAAAAJ"
+  orcid: "https://orcid.org/0009-0005-4050-5040"
+  github: "Abalo39"
+  linkedin: "https://www.linkedin.com/in/abalo-simsoba-803a75244/"
 
 # Publication Category Labels
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
 
 # Collections Configuration
 collections:
@@ -47,41 +47,64 @@ collections:
 
 # Reading Files & Exclusions
 include:
-  - .htaccess
-  - _pages
-  - files
+  - "_pages"
+  - ".htaccess"
+  - "files"
 exclude:
-  - node_modules
-  - Gemfile
-  - package.json
-  - README
-  - vendor
+  - "node_modules"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "package.json"
+  - "package-lock.json"
+  - "README.md"
+  - "vendor"
+  - "*.log"
 keep_files:
-  - .git
+  - ".git"
+  - ".well-known"
 
 # Defaults for Profiles and Layouts
 defaults:
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: single
+      layout: "single"
       author_profile: true
   - scope:
-      path: ""
-      type: publications
+      path: "_publications"
+      type: "publications"
     values:
-      layout: single
+      layout: "single"
       author_profile: true
   - scope:
-      path: ""
-      type: teaching
+      path: "_teaching"
+      type: "teaching"
     values:
-      layout: single
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: "_talks"
+      type: "talks"
+    values:
+      layout: "single"
       author_profile: true
 
 # Plugins (only those supported by GitHub Pages)
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-redirect-from
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+safe: true
+
+# SEO/Twitter Card Settings
+twitter:
+  username: abalo39  # Add if you have Twitter
+
+# Timezone
+timezone: "Africa/Johannesburg"
