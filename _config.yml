@@ -2,7 +2,7 @@
 locale: "en-US"
 title: "Kouyakou-Abalo SIMSOBA"
 title_separator: "-"
-name: &name "Kouyakou-Abalo SIMSOBA"
+name: &name "Kouyakou-Abalo SIMSOBA Serge"
 description: &description "Google DeepMind Scholar | Artificial Intelligence for Science"
 url: "https://abalo39.github.io"  # Fixed: lowercase
 baseurl: ""
